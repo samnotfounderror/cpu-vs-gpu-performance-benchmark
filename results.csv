@@ -1,0 +1,5 @@
+matrix_size,cpu_compute_ms,gpu_compute_ms,gpu_with_transfers_ms,gpu_compute_speedup,gpu_with_transfers_speedup
+64 × 64,0.009,0.016,0.085,0.592,0.109
+256 × 256,0.295,0.042,0.355,7.113,0.831
+1024 × 1024,16.974,0.835,3.82,20.335,4.444
+2048 × 2048,141.609,6.066,14.689,23.345,9.64
