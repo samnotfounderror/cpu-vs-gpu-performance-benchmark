@@ -2,7 +2,7 @@
 
 A hands-on **PyTorch matrix multiplication benchmark** comparing CPU computation against an NVIDIA Tesla T4 GPU in Google Colab. This is a small learning experiment, not a comprehensive hardware ranking.
 
-![CPU vs GPU benchmark chart](images/cpu_gpu_benchmark.png)
+![CPU vs GPU benchmark chart](cpu_gpu_benchmark.png)
 
 ## Research question
 
